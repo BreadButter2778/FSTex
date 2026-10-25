@@ -1,0 +1,18 @@
+# 编译产物
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# 无扩展名的可执行文件
+main
+a.out
+
+# VS Code
+.vscode/
+
+# 其它
+*.user
